@@ -12,7 +12,7 @@ public:
 int main(){
     node *head=nullptr;
     node *ptr;
-    for(int i=1;i<2;++i){
+    for(int i=1;i<11;++i){
             node *p;
             p->data=5;
             p->next=nullptr;
